@@ -6,6 +6,7 @@ import {
   decorateIcons,
   decorateSections,
   decorateTemplateAndTheme,
+  createOptimizedPicture as libCreateOptimizedPicture,
   getMetadata,
   loadBlock,
   loadBlocks,
